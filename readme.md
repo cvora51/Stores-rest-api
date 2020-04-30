@@ -1,4 +1,4 @@
-# Stores RESTful API using Flask & Python
+# RESTful API using Flask & Python
 
 This is a simple RESTful API for stores and items in store, developed using following:
 Flask, Flask-RESTful, Flask-JWT, Flask-SQLAlchemy.
