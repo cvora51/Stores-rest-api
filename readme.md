@@ -4,6 +4,7 @@ This is a simple RESTful API for stores and items in store, developed using foll
 Flask, Flask-RESTful, Flask-JWT, Flask-SQLAlchemy.
 
 Contains Certain features such as:
+
 -> User Module along with User_Login, User_Logout.
 -> API requests such as GET, PUT, POST, DELETE.
 -> Handles secure User registration and Authentication with Flask.
